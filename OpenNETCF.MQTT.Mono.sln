@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenNETCF.MQTT.Mono", "OpenNETCF.MQTT.Mono.csproj", "{2209799F-5B06-449F-86FF-0807DECF9289}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenNETCF.Extensions.FFx", "..\OpenNETCF.Extensions\OpenNETCF.Extensions.FFx.csproj", "{82D377B5-7A45-439C-BECB-7D008E7152B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApplication1", "..\WpfApplication1\WpfApplication1.csproj", "{CF60D8B2-4801-48F0-8520-6A073A707A52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2209799F-5B06-449F-86FF-0807DECF9289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2209799F-5B06-449F-86FF-0807DECF9289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2209799F-5B06-449F-86FF-0807DECF9289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2209799F-5B06-449F-86FF-0807DECF9289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82D377B5-7A45-439C-BECB-7D008E7152B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82D377B5-7A45-439C-BECB-7D008E7152B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82D377B5-7A45-439C-BECB-7D008E7152B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82D377B5-7A45-439C-BECB-7D008E7152B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF60D8B2-4801-48F0-8520-6A073A707A52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF60D8B2-4801-48F0-8520-6A073A707A52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF60D8B2-4801-48F0-8520-6A073A707A52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF60D8B2-4801-48F0-8520-6A073A707A52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
